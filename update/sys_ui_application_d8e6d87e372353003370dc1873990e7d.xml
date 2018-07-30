@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>users_sfr</name>
+        <order/>
+        <roles>x_248873_auto_enre.users_sfr_last_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 12:48:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8e6d87e372353003370dc1873990e7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>users_sfr</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="creation_autoEnregistrementUtilisateur_OCA_last" source="x_248873_auto_enre">bbc1547a372353003370dc1873990eec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_autoEnregistrementUtilisateur_OCA_last">bbc1547a372353003370dc1873990eec</sys_scope>
+        <sys_update_name>sys_ui_application_d8e6d87e372353003370dc1873990e7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 12:48:00</sys_updated_on>
+    </sys_ui_application>
+</record_update>
