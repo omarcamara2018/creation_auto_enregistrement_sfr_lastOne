@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</contains>
+        <role display_value="x_248873_auto_enre.public_everyONE" name="x_248873_auto_enre.public_everyONE">1f67b80f376313003370dc1873990e2a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 09:50:28</sys_created_on>
+        <sys_id>2dd7388f376313003370dc1873990e7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>public.x_248873_auto_enre.public_everyONE</sys_name>
+        <sys_package display_value="creation_autoEnregistrementUtilisateur_OCA_last" source="x_248873_auto_enre">bbc1547a372353003370dc1873990eec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_autoEnregistrementUtilisateur_OCA_last">bbc1547a372353003370dc1873990eec</sys_scope>
+        <sys_update_name>sys_user_role_contains_2dd7388f376313003370dc1873990e7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 09:50:28</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

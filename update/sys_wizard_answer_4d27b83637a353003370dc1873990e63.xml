@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>users_sfr_last</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>users_sfr_last</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-30 15:08:58</sys_created_on>
+        <sys_id>4d27b83637a353003370dc1873990e63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>users_sfr_last</sys_name>
+        <sys_package display_value="creation_autoEnregistrementUtilisateur_OCA_last" source="x_248873_auto_enre">bbc1547a372353003370dc1873990eec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_autoEnregistrementUtilisateur_OCA_last">bbc1547a372353003370dc1873990eec</sys_scope>
+        <sys_update_name>sys_wizard_answer_4d27b83637a353003370dc1873990e63</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-30 15:08:58</sys_updated_on>
+        <table/>
+        <target_url>x_248873_auto_enre_users_sfr_last.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

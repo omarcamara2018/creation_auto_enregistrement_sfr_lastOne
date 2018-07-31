@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="users_sfr_last" max_length="40" name="x_248873_auto_enre_users_sfr_last" type="collection">
+    <element extends="task" label="users_sfr_last" max_length="40" name="x_248873_auto_enre_users_sfr_last" sizeclass="5" type="collection">
         <element label="Adresse mail" mandatory="true" max_length="40" name="adresse_mail" type="string"/>
         <element label="Compagnie" max_length="40" name="compagnie" type="string"/>
         <element choice="3" default="1" label="Etat" max_length="40" name="etat" read_only="true" type="string">
@@ -10,8 +10,8 @@
                 <element label="Rejetée" sequence="2" value="2"/>
             </choice>
         </element>
-        <element label="Nom" mandatory="true" max_length="40" name="nom" type="string"/>
-        <element label="Numéro de téléphone " max_length="40" name="num_ro_de_t_l_phone" type="phone_number_e164"/>
+        <element display="true" label="Nom" mandatory="true" max_length="40" name="nom" type="string"/>
+        <element label="Numéro de téléphone" max_length="40" name="num_ro_de_t_l_phone" type="phone_number_e164"/>
         <element label="Prénom" mandatory="true" max_length="40" name="pr_nom" type="string"/>
         <element label="Pwd" max_length="40" name="pwd" read_only="true" type="string"/>
     </element>

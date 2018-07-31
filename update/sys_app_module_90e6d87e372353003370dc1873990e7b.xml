@@ -19,14 +19,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_248873_auto_enre.users_sfr_last_user</roles>
+        <roles>x_248873_auto_enre.users_sfr_last_user,fullfiller_global,admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-30 12:48:00</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>90e6d87e372353003370dc1873990e7b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>All users </sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_autoEnregistrementUtilisateur_OCA_last" source="x_248873_auto_enre">bbc1547a372353003370dc1873990eec</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="creation_autoEnregistrementUtilisateur_OCA_last">bbc1547a372353003370dc1873990eec</sys_scope>
         <sys_update_name>sys_app_module_90e6d87e372353003370dc1873990e7b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-30 13:45:33</sys_updated_on>
+        <sys_updated_on>2018-07-31 07:27:22</sys_updated_on>
         <timeline_page/>
         <title>All users </title>
         <uncancelable>false</uncancelable>
