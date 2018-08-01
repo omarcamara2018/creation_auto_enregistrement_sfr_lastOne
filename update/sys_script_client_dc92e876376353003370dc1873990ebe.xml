@@ -16,6 +16,7 @@
 	var URL = "https://dev54627.service-now.com/sp?id=page_de_connexion";   //Redirect part of widget sc item custom
 
 	top.window.location = URL;   
+
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -23,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dc92e876376353003370dc1873990ebe</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>rediger_le_client_vers_page_connexion</sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_autoEnregistrementUtilisateur_OCA_last" source="x_248873_auto_enre">bbc1547a372353003370dc1873990eec</sys_package>
@@ -31,7 +32,7 @@
         <sys_scope display_value="creation_autoEnregistrementUtilisateur_OCA_last">bbc1547a372353003370dc1873990eec</sys_scope>
         <sys_update_name>sys_script_client_dc92e876376353003370dc1873990ebe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-30 13:39:45</sys_updated_on>
+        <sys_updated_on>2018-08-01 07:38:04</sys_updated_on>
         <table>x_248873_auto_enre_users_sfr_last</table>
         <type>onSubmit</type>
         <ui_type>10</ui_type>
